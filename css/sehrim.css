@@ -1,0 +1,36 @@
+.header-image {
+    background-image: url(../img/ankara1.jpg);
+    background-size: contain;
+}
+.header-text{
+    color: whitesmoke;
+    text-align: center;
+}
+
+.slider {
+    text-align: center;
+}
+
+.slider img {
+    width: 80%;
+    height: 20rem;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px gray;
+    opacity: 0.9;
+}
+
+.slider img:hover {
+    opacity: 1;
+}
+
+.icerik {
+    text-align: justify;
+}
+
+.box {
+    box-sizing: border-box;
+    float: left;
+    width: 50%;
+    height: 50%;
+    margin: 3rem 0;
+}
