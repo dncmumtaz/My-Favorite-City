@@ -1,5 +1,5 @@
 function loginDenetle(){
-    var kulAd="mumtaz.danaci1@ogr.sakarya.edu.tr";
+    var kulAd="b211210370@sakarya.edu.tr";
     var sifre="b211210370";
     var KullaniciAdi=document.getElementById("kullaniciAdi").value;
     var Parola=document.getElementById("parola").value;
