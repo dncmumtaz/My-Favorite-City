@@ -1,6 +1,6 @@
 function loginDenetle(){
-    var kulAd="dncmumtaz";
-    var sifre="12345";
+    var kulAd="mumtaz.danaci1@ogr.sakarya.edu.tr";
+    var sifre="b211210370";
     var KullaniciAdi=document.getElementById("kullaniciAdi").value;
     var Parola=document.getElementById("parola").value;
     var Hata=document.getElementById("hata");

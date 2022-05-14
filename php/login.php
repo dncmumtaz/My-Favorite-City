@@ -3,8 +3,8 @@
 error_reporting(0);
 
 if(isset($_POST['login'])){
-    $kulAd="dncmumtaz";
-    $sifre="12345";
+    $kulAd="mumtaz.danaci1@ogr.sakarya.edu.tr";
+    $sifre="b211210370";
     $kullaniciAdi=$_POST["kullaniciAdi"];
     $parola=$_POST["parola"];
     if($kullaniciAdi!="" && $parola!=""){
