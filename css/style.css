@@ -1,0 +1,107 @@
+.header {
+    background-color: lightslategray;
+}
+
+.body {
+    background-color: #DCDCDC;
+}
+
+.header a {
+    color: aliceblue;
+    opacity: 0.9;
+    font-size: 18px;
+}
+
+.header a:hover {
+    text-shadow: 1px white;
+    opacity: 1;
+    transition: all 0.1s linear;
+    color: white;
+}
+
+.giris {
+    padding: 10px;
+    text-align: center;
+    margin: 2rem 1rem;
+    background: aliceblue;
+}
+
+.box {
+    align-content: center;
+    height: 10em;
+    padding: 1px;
+    opacity: 0.9;
+
+}
+
+.box:hover {
+    opacity: 1;
+}
+
+.pic {
+    height: 10em;
+
+    margin: 0;
+}
+
+.pic img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.tex {
+    padding-top: 1.5rem;
+    height: 10em;
+    border-bottom-right-radius: 10px;
+    margin: 0;
+    background: aliceblue;
+}
+
+.tex p {
+    text-align: unset;
+}
+
+.tex a {
+    color: black;
+}
+
+.tex a:hover {
+    text-decoration: none;
+}
+
+.hobi-row {
+    margin: 8rem 0;
+}
+
+.footer {
+    height: 3em;
+    background-color: lightslategray;
+    text-align: center;
+}
+
+.footer p {
+    height: 100%;
+    line-height: 3em;
+    padding-left: 1rem;
+    color: white;
+}
+
+.top {
+    position: fixed;
+    top: 85%;
+    left: 95%;
+    z-index: 1000;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 10px;
+    background-color: lightslategray;
+    opacity: 0.5;
+    text-align: center;
+    line-height: 2rem;
+    color: purple;
+}
+
+.top:hover {
+    opacity: 1;
+}

@@ -1,0 +1,30 @@
+.govde{
+    margin: 2rem 0;
+    padding: 1rem 0;
+    color: black;
+}
+.foto{
+    text-align: center;
+    padding-top: 2rem;
+}
+.foto img{
+    width: 10rem;
+    height: 10rem;
+}
+.baslik{
+    text-align: center;
+}
+.baslik-yazi{
+    font-weight: bold;
+    font-size: 2em;
+    text-align: left;
+    line-height: 11rem;
+}
+.baslik-yazi p{
+    margin-left: 3rem;
+}
+.bilgiler-baslik{
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+}
+
